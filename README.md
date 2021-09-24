@@ -5,4 +5,4 @@ puristic, flat dark gtk3/gtk2/openbox/xfwm4/metacity/plank theme (based on ark-d
 preview:  
 <img src="screenshots/screenshot-01.png" width="550">
 
-NOTE: xfwm4 theme has neither title bar not buttons.
+NOTE: xfwm4 theme has neither title bar nor buttons.
